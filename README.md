@@ -6,4 +6,4 @@ For the project I was required to create a WordPress website. The website had to
 
 ## Submission
 
-The 'aronNutley.wpress' file contains the submitted website for the project. The LAMP server which hosted the website is no longer running so the backup has to be viewed locally.
+The 'aronNutley.wpress' file which is located in the zip file contains the submitted wordpress file for the project. The LAMP server which hosted the website is no longer running so the backup has to be viewed locally.
